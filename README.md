@@ -4,7 +4,8 @@ Alternative Economy using Hour Vouchers and Hour Participation Tokens aka Worker
 # Open Source
 - Licensed as Open Source
 - Need volunteer coders
-- Decentralized, Immutable, Distributed Ledger 
+- Decentralized, Immutable, Distributed Ledger, Worker to Enterprise
+- One Portfolio (Store for Hour Bonds) linked to Multiple Wallets (Stores for Hour Vouchers) 
 - Proof not based on Proof of Work
 
 # Goals/Vision of this Project
@@ -49,14 +50,19 @@ Ex: 20 y/o * 365 days * 24 hrs = 175,200 hour bonds/ token ownership
 
 # Problems that need to be Addressed
 - Double Spending
-- Duplicate Wallets per Person
+- Enforcing One Portfolio per Person
 - False/Fraudulent Age or DOB
 - Verification of DOB
 - Prevent circulation of Hour Vouchers
 - Limited vendors accepting Labor Vouchers
 - Bad Actors that Outinvest other Participants for personal gain
 - Hour Voucher can only operate with Hour Bonds
+- To write from scratch or to use existing cryptocurrency projects or both?
 
+# Solution for One
+- Incentivize Portfolio Brokers to make sure a person only owns one portfolio
 # Motivations to Production
 - Profit Motive will be significantly reduced and will focus more on the overall well-being or improvement of society
 - Reduction of Prices and Improvement of Living Conditions
+
+# Comments and Suggestions are welcome
