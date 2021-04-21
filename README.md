@@ -59,7 +59,7 @@ Ex: 20 y/o * 365 days * 24 hrs = 175,200 hour bonds/ token ownership
 - Hour Voucher can only operate with Hour Bonds
 - To write from scratch or to use existing cryptocurrency projects or both?
 
-# Solution for One
+# Solutions
 - Incentivize Portfolio Brokers to make sure a person only owns one portfolio
 # Motivations to Production
 - Profit Motive will be significantly reduced and will focus more on the overall well-being or improvement of society
